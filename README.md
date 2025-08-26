@@ -1,12 +1,37 @@
-# React + Vite
+# 🧮 React + Vite Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Calculator App** built using **React.js** with **Vite** for fast development and build.  
+This app performs basic arithmetic operations like addition, subtraction, multiplication, and division.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Perform basic arithmetic operations (+, -, ×, ÷)
+- Clear (C) and Delete (⌫) functionality
+- Responsive design for desktop and mobile
+- Built with **React Hooks** (`useState`)
+- Lightning fast bundling with **Vite**
+- Clean and user-friendly UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React.js (Vite)**
+- **JavaScript (ES6+)**
+- **CSS3 / TailwindCSS (if used)**
+- **HTML5**
+
+---
+
+## 📂 Project Structure
+calculator-app/
+├── public/
+├── src/
+│ ├── components/
+│ │ └── Calculator.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── App.css
+├── index.html
+├── package.json
+└── vite.config.js
