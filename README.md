@@ -35,3 +35,6 @@ calculator-app/
 ##### ├── index.html
 ##### ├── package.json
 ##### └── vite.config.js
+
+## Author:
+- Mo Fahim Raj
