@@ -25,13 +25,13 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 
 ## 📂 Project Structure
 calculator-app/
-├── public/
-├── src/
-│ ├── components/
-│ │ └── Calculator.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── App.css
-├── index.html
-├── package.json
-└── vite.config.js
+##### ├── public/
+##### ├── src/
+##### │ ├── components/
+##### │ │ └── Calculator.jsx
+##### │ ├── App.jsx
+##### │ ├── main.jsx
+##### │ └── App.css
+##### ├── index.html
+##### ├── package.json
+##### └── vite.config.js
