@@ -37,4 +37,5 @@ calculator-app/
 ##### └── vite.config.js
 
 ## Author:
-- Mo Fahim Raj
+**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
+
