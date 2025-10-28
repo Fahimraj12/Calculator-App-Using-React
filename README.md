@@ -40,8 +40,8 @@ calculator-app/
 
 - Clone the repository:
    ```bash
-  git clone https://github.com/FahimRaj12/Myntra-Clone.git
-  cd Myntra-Clone
+  git clone https://github.com/FahimRaj12/Calculator-App-Using-React.git
+  cd calculator-app
 - Install dependencies
   ```bash
   npm install
