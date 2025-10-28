@@ -52,6 +52,10 @@ calculator-app/
   ```bash
   http://localhost:3000
 
-## Author:
-**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
+
+### 👨‍💻 Author
+- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
+
 
