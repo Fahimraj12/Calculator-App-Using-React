@@ -36,6 +36,22 @@ calculator-app/
 ##### ├── package.json
 ##### └── vite.config.js
 
+## ⚙️ Installation and Setup
+
+- Clone the repository:
+   ```bash
+  git clone https://github.com/FahimRaj12/Myntra-Clone.git
+  cd Myntra-Clone
+- Install dependencies
+  ```bash
+  npm install
+- Start the development server
+  ```bash
+  npm start
+- Open in browser
+  ```bash
+  http://localhost:3000
+
 ## Author:
 **[Mo Fahim Raj](https://github.com/Fahimraj12)**  
 
