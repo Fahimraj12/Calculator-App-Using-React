@@ -7,7 +7,7 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 
 ## 🚀 Features
 - Perform basic arithmetic operations (+, -, ×, ÷)
-- Clear (C) and Delete (⌫) functionality
+- Clear (C) and Delete (⌫ functionality
 - Responsive design for desktop and mobile
 - Built with **React Hooks** (`useState`)
 - Lightning fast bundling with **Vite**
