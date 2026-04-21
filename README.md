@@ -12,7 +12,6 @@ This app performs basic arithmetic operations like addition, subtraction, multip
 - Built with **React Hooks** (`useState`)
 - Lightning fast bundling with **Vite**
 - Clean and user-friendly UI
-
 ---
 
 ## 🛠️ Tech Stack
