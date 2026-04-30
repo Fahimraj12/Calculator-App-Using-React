@@ -1,4 +1,4 @@
-# Calculator App - React + Vite
+# Calculator App - React 
 
 A simple and responsive **Calculator App** built using **React.js** with **Vite** for fast development and build.  
 This app performs basic arithmetic operations like addition, subtraction, multiplication, and division.  
